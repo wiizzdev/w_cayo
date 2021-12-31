@@ -4,6 +4,7 @@ Simple script permettant d'ajouter Cayo Perico
 #### Discord : https://discord.gg/VpYP58ZjmD
 
 -> Ce n'est pas un mapping !
+-> Ne pas oublier de mettre 'set sv_enforceGameBuild 2372' dans votre server.cfg !
 
 ### Screenshot :
 
