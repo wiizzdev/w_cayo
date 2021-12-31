@@ -17,4 +17,4 @@ Citizen.CreateThread(function()
     end
 end)
 
--- /!\ NE PAS OUBLIER DE METTRE  'set sv_enforceGameBuild 2372' dans votre server.cfg /!\
+-- /!\ NE PAS OUBLIER DE METTRE 'set sv_enforceGameBuild 2372' dans votre server.cfg /!\
